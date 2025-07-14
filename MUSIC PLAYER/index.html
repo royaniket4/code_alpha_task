@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Music Player</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <button class="toggle-theme" onclick="document.body.classList.toggle('dark')"> Dark Mode</button>
+
+  <div class="player-container">
+    <div class="track-info">
+      <img id="cover" src="COVER1.jpg" alt="Cover Art" />
+      <h2 id="title">Song Title</h2>
+      <h3 id="artist">Artist</h3>
+    </div>
+    <audio id="audio"></audio>
+    <div class="controls">
+      <button id="prev">&#9664;&#9664;</button>
+      <button id="play">&#9654;</button>
+      <button id="next">&#9654;&#9654;</button>
+      
+    </div>
+    <input type="range" id="progress" value="0" />
+    <input type="range" id="volume" min="0" max="1" step="0.01" value="1" />
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
