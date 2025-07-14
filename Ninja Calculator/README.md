@@ -65,7 +65,7 @@ calculator-app/
 
 1. **Download or Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/royaniket4/calculator-app.git
 cd calculator-app
 ```
 
@@ -124,7 +124,7 @@ You can add screenshots of the calculator UI in action to this section for bette
 
 ## Contributors & Credits
 
-- Developed by: **[Your Name]**
+- Developed by: **ANIKET ROY**
 - Inspired by simple calculator UIs and concepts taught in frontend development.
 
 **Resources Used**:
@@ -137,3 +137,11 @@ You can add screenshots of the calculator UI in action to this section for bette
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).  
 Feel free to modify, distribute, and use it in personal or commercial projects.
+
+
+# OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da081a2e-0ec0-45d4-aad7-ba719f208536" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70664ef5-5bd7-43e2-9cd0-28b1d2611ebc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a461e4db-d6af-410d-bda9-2363350215d2" />
+
+
