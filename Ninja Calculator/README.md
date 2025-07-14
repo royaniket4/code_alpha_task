@@ -2,22 +2,6 @@
 # Web-Based Calculator Application
 
 This is a modern, lightweight web-based calculator application built using **HTML**, **CSS**, and **JavaScript**. It replicates the core functionality of a physical calculator with additional styling for a clean user experience. This project is ideal for beginners looking to understand DOM manipulation, event handling, and responsive UI design in frontend development.
-
----
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)  
-2. [Key Features](#key-features)  
-3. [Technology Stack](#technology-stack)  
-4. [Folder Structure](#folder-structure)  
-5. [How to Use](#how-to-use)  
-6. [How It Works](#how-it-works)  
-7. [Screenshots](#screenshots)  
-8. [Future Enhancements](#future-enhancements)  
-9. [Contributors & Credits](#contributors--credits)  
-10. [License](#license)
-
 ---
 
 ## Project Overview
